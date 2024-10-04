@@ -4,7 +4,7 @@
 This extension hides some ads in Outlook like the outlook right sidebar.
 Which is certainly the most annoying element of the app, no need to pay MS Office 365, just follow the steps; you can also check the source code (100% secure)
 
-#### ~FRENCH English
+#### ~FRENCH
 Cette extension cache certaines publicités dans Outlook comme la barre latérale droite.
 Ce qui est certainement l'élément le plus ennuyeux de l'application, pas besoin de payer MS Office 365, il suffit de suivre les étapes; vous pouvez également vérifier le code source (100% sécurisé).
 
