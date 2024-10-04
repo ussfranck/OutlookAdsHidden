@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "OutlookAdsHidden",
+    "version": "1.0",
+    "description": "Hide some ads in Outlook",
+    "permissions": ["activeTab"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://outlook.live.com/mail/0/*"],
+        "css": ["content.style.css"]
+      }
+    ]
+  }
